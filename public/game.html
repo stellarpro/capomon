@@ -1,0 +1,25 @@
+<div>
+<h3>Welcome to game</h3>
+	
+	<div ng-repeat="type in itemtypes">
+			<button ng-click="catchType(type)">{{type}}</button>
+	</div>
+
+	<div>
+		<table id="captures">
+			<tr>
+				<td>Capomon</td>
+				<td>Captured</td>
+				<td>Seen</td>
+				<td>Score</td>
+			</tr>
+			<tr ng-repeat="item in userItems">
+				<td>{{item.name}}</td>
+				<td>{{item.captured}}</td>
+				<td>{{item.seen}}</td>
+				<td>{{item.score}}</td>
+			</tr>
+		</table>
+	</div>
+</div>
+</div>

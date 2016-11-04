@@ -1,0 +1,29 @@
+{"type":"mammals", "name":"deer", "probability":0.5, "score": 1}
+{"type":"birds", "name":"robins", "probability":0.5, "score": 1}
+{"type":"fish", "name":"tunas", "probability":0.5, "score": 1}
+{"type":"reptiles", "name":"lizards", "probability":0.5, "score": 1}
+{"type":"amphibians", "name":"frogs", "probability":0.5, "score": 1}
+
+{"type":"mammals", "name":"horses", "probability":0.3, "score": 2}
+{"type":"birds", "name":"toucans", "probability":0.3, "score": 2}
+{"type":"fish", "name":"clownfishes", "probability":0.3, "score": 2}
+{"type":"reptiles", "name":"turtles", "probability":0.3, "score": 2}
+{"type":"amphibians", "name":"toads", "probability":0.3, "score": 2}
+
+{"type":"mammals", "name":"kangaroos", "probability":0.1, "score": 4}
+{"type":"birds", "name":"penguins", "probability":0.1, "score": 4}
+{"type":"fish", "name":"sharks", "probability":0.1, "score": 4}
+{"type":"reptiles", "name":"snakes", "probability":0.1, "score": 4}
+{"type":"amphibians", "name":"newts", "probability":0.1, "score": 4}
+
+{"type":"mammals", "name":"dolphins", "probability":0.07, "score": 6}
+{"type":"birds", "name":"bald eagles", "probability":0.07, "score": 6}
+{"type":"fish", "name":"sea breams", "probability":0.07, "score": 6}
+{"type":"reptiles", "name":"alligators", "probability":0.07, "score": 6}
+{"type":"amphibians", "name":"blindworms", "probability":0.07, "score": 6}
+
+{"type":"mammals", "name":"whales", "probability":0.03, "score": 10}
+{"type":"birds", "name":"peacocks", "probability":0.03, "score": 10}
+{"type":"fish", "name":"seahorses", "probability":0.03, "score": 10}
+{"type":"reptiles", "name":"crocodiles", "probability":0.03, "score": 10}
+{"type":"amphibians", "name":"salamanders", "probability":0.03, "score": 10}
